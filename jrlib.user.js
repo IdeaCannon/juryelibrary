@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         주례열린 서가위치 출력
 // @namespace    http://tampermonkey.net/
-// @version      2024-09-15
+// @version      2024-10-03
 // @description  try to take over the world!
 // @author       You
 // @match        https://library.busan.go.kr/juryebooks/book/search/bookPrint
